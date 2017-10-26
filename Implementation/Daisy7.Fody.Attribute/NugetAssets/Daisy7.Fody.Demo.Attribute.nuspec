@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Daisy7.Fody.Demo.Attribute</id>
+    <version>1.0.0</version>
+    <authors>NADAE</authors>
+    <owners>NADAE</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Demo</description>
+    <releaseNotes>Virtuosity.</releaseNotes>
+    <copyright>Copyright 2016</copyright>
+    <tags>Fody NADAE ServiceContract</tags>
+  </metadata>
+</package>
